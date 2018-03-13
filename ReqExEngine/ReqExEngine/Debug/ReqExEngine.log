@@ -1,0 +1,9 @@
+﻿  Parser.cpp
+  Main.cpp
+  Expression.cpp
+  正在生成代码...
+f:\backup\backup\code warehouse\projects\vs2015 projects\c++ projects\reqexengine\reqexengine\parser.cpp(97): warning C4715: “Parser::ParseUnit”: 不是所有的控件路径都返回值
+  正在跳过...(未检测到相关更改)
+  RegEx.cpp
+  ReqExEngine.vcxproj -> F:\Backup\backup\Code Warehouse\Projects\VS2015 Projects\C++ Projects\ReqExEngine\Debug\ReqExEngine.exe
+  ReqExEngine.vcxproj -> F:\Backup\backup\Code Warehouse\Projects\VS2015 Projects\C++ Projects\ReqExEngine\Debug\ReqExEngine.pdb (Partial PDB)
